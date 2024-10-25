@@ -96,7 +96,7 @@ a {
 }
 
 a:hover, a:focus, a:active {
-    color: #39b54a;
+    color: #2B3A67;
 }
 
 a:hover, a:active {
@@ -367,7 +367,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: #39b54a;
+    background: #2B3A67;
     position: absolute;
     left: -17px;
     top: 11px;
@@ -376,7 +376,7 @@ ul.disc li::before {
 
 dt {
     margin: 0;
-    color: #39b54a;
+    color: #2B3A67;
 }
 
 dd {
@@ -502,7 +502,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: #39b54a;
+    background: #2B3A67;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -545,7 +545,7 @@ form,
 }
 
 .line-scale-pulse-out > div {
-    background-color: #39b54a;
+    background-color: #2B3A67;
     width: 4px;
     height: 35px;
     border-radius: 2px;
@@ -772,7 +772,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-    -webkit-text-fill-color: #39b54a;
+    -webkit-text-fill-color: #2B3A67;
     transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -832,9 +832,9 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-    background: #39b54a;
-    border-color: #39b54a;
-    color: #FFFFFF;
+    background: #2B3A67;
+    border-color: #2B3A67;
+    color: #D4AF37;
 }
 
 .btn.btn--primary:hover,
@@ -872,8 +872,8 @@ input[type="button"].btn--primary:focus {
 
 .btn--stroke, button.btn--stroke {
     background: transparent !important;
-    border: 0.2rem solid #39b54a;
-    color: #39b54a;
+    border: 0.2rem solid #2B3A67;
+    color: #2B3A67;
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
@@ -1101,7 +1101,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-    color: #39b54a;
+    color: #2B3A67;
 }
 
 .stats-tabs li a em {
@@ -1154,7 +1154,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     top: -3.6rem;
     display: block;
     font-family: "montserrat-regular", sans-serif;
-    color: #FFFFFF;
+    color: #D4AF37;
     font-size: 1.1rem;
     line-height: 1;
     background: #000000;
@@ -1221,7 +1221,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .display-1--light {
-    color: #FFFFFF;
+    color: #D4AF37;
 }
 
 .display-2 {
@@ -1233,7 +1233,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .display-2--light {
-    color: #FFFFFF;
+    color: #D4AF37;
 }
 
 .subhead + .display-2 {
@@ -1246,7 +1246,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     line-height: 1.333;
     text-transform: uppercase;
     letter-spacing: .25rem;
-    color: #39b54a;
+    color: #2B3A67;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -1420,7 +1420,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .slick-slider .slick-dots li.slick-active button,
 .slick-slider .slick-dots li:hover button {
-    background: #39b54a;
+    background: #2B3A67;
 }
 
 
@@ -1513,7 +1513,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     letter-spacing: .25rem;
     margin-bottom: 4.8rem;
     margin-top: .9rem;
-    color: #39b54a;
+    color: #2B3A67;
 }
 
 .header-nav p {
@@ -1542,7 +1542,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .header-nav__list a,
 .header-nav__list a:visited {
-    color: #FFFFFF;
+    color: #D4AF37;
 }
 
 .header-nav__social {
@@ -1592,7 +1592,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     height: 2px;
     width: 12px;
-    background-color: #FFFFFF;
+    background-color: #D4AF37;
     position: absolute;
     top: 50%;
     left: 9px;
@@ -1651,7 +1651,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1.3rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: #39b54a;
+    color: #2B3A67;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
 }
@@ -1665,7 +1665,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .header-menu-toggle:hover, .header-menu-toggle:focus {
-    color: #FFFFFF;
+    color: #D4AF37;
 }
 
 .header-menu-text {
@@ -1807,7 +1807,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 6.3rem;
     line-height: 1.333;
     margin-top: 0;
-    color: #FFFFFF;
+    color: #D4AF37;
 }
 
 .home-content__main {
@@ -1822,8 +1822,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content__buttons .btn {
     width: 215px;
-    border-color: #FFFFFF;
-    color: #FFFFFF;
+    border-color: #D4AF37;
+    color: #D4AF37;
     margin: 1.5rem 1.5rem 0 0;
     letter-spacing: .25rem;
     -webkit-transition: all 0.5s ease-in-out;
@@ -1836,7 +1836,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .home-content__buttons .btn:hover, 
 .home-content__buttons .btn:focus {
-    background: #FFFFFF !important;
+    background: #D4AF37 !important;
     color: #000000;
 }
 
@@ -1851,7 +1851,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     font-size: 1rem;
     text-transform: uppercase;
     letter-spacing: .3rem;
-    color: #FFFFFF;
+    color: #D4AF37;
     position: relative;
     display: inline-block;
     line-height: 3rem;
@@ -1859,8 +1859,8 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .home-content__scroll a::before {
-    border-bottom: 2px solid #39b54a;
-    border-right: 2px solid #39b54a;
+    border-bottom: 2px solid #2B3A67;
+    border-right: 2px solid #2B3A67;
     content: '';
     display: block;
     height: 8px;
@@ -1884,7 +1884,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #39b54a;
+    background-color: #2B3A67;
     position: absolute;
     right: 7.2rem;
     bottom: 0;
@@ -1939,12 +1939,12 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     width: 33px;
     height: 33px;
     line-height: calc(33px - 4px);
-    border: 2px solid #FFFFFF;
+    border: 2px solid #D4AF37;
     border-radius: 50%;
 }
 
 .home-social span {
-    color: #39b54a;
+    color: #2B3A67;
     right: 4.5rem;
     font-size: 1.3rem;
     opacity: 0;
@@ -2200,7 +2200,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #39b54a;
+    background-color: #2B3A67;
     color: #010507;
     position: relative;
 }
@@ -2241,7 +2241,7 @@ html.no-csstransitions .home-content__main {
     font-family: "montserrat-bold", sans-serif;
     font-size: 8.4rem;
     line-height: 1;
-    color: #FFFFFF;
+    color: #D4AF37;
     position: relative;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -2261,7 +2261,7 @@ html.no-csstransitions .home-content__main {
     display: block;
     width: 2px;
     height: 10.2rem;
-    background-color: #FFFFFF;
+    background-color: #D4AF37;
     position: absolute;
     right: 7.2rem;
     top: 0;
@@ -2370,7 +2370,7 @@ html.no-csstransitions .home-content__main {
 .s-services {
     padding-top: 16.2rem;
     padding-bottom: 13.2rem;
-    background-color: #FFFFFF;
+    background-color: #D4AF37;
     color: #757575;
     position: relative;
 }
@@ -2405,7 +2405,7 @@ html.no-csstransitions .home-content__main {
 
 .services-list .service-icon {
     float: left;
-    color: #39b54a;
+    color: #2B3A67;
     font-size: 4.8rem;
     margin-top: -.6rem;
 }
@@ -2492,7 +2492,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-works {
-    background: #FFFFFF;
+    background: #D4AF37;
     padding: 0 0 15rem 0;
     min-height: 800px;
     position: relative;
@@ -2602,7 +2602,7 @@ html.no-csstransitions .home-content__main {
     font-family: "montserrat-semibold", sans-serif;
     font-size: 1.4rem;
     line-height: 1.286;
-    color: #FFFFFF;
+    color: #D4AF37;
     text-transform: uppercase;
     letter-spacing: .2rem;
     margin: 0 0 .3rem 0;
@@ -2622,8 +2622,8 @@ html.no-csstransitions .home-content__main {
 
 .item-folio__project-link {
     display: block;
-    color: #FFFFFF;
-    box-shadow: 0 0 0 1px #FFFFFF;
+    color: #D4AF37;
+    box-shadow: 0 0 0 1px #D4AF37;
     border-radius: 50%;
     height: 4.2rem;
     width: 4.2rem;
@@ -2658,7 +2658,7 @@ html.no-csstransitions .home-content__main {
 .item-folio__project-link:hover,
 .item-folio__project-link:focus,
 .item-folio__project-link:active {
-    background-color: #FFFFFF;
+    background-color: #D4AF37;
     color: #000000;
 }
 
@@ -2973,8 +2973,8 @@ html.no-csstransitions .home-content__main {
     letter-spacing: .1rem;
     padding: 0 2rem;
     margin: 0;
-    color: #FFFFFF;
-    background: #39b54a;
+    color: #D4AF37;
+    background: #2B3A67;
 }
 
 .s-contact .form-field label::after {
@@ -2985,14 +2985,14 @@ html.no-csstransitions .home-content__main {
     margin-top: -6px;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-right: 5px solid #39b54a;
+    border-right: 5px solid #2B3A67;
 }
 
 .contact__line {
     display: block;
     width: 2px;
     height: 20.4rem;
-    background-color: #39b54a;
+    background-color: #2B3A67;
     position: absolute;
     left: 50%;
     top: -10.2rem;
@@ -3014,12 +3014,12 @@ html.no-csstransitions .home-content__main {
 .contact-content h3 {
     margin-top: 0;
     margin-bottom: 6.6rem;
-    color: #FFFFFF;
+    color: #D4AF37;
 }
 
 .contact-content h5 {
     margin-top: 0;
-    color: #39b54a;
+    color: #2B3A67;
 }
 
 .contact-content input[type="email"],
@@ -3045,8 +3045,8 @@ html.no-csstransitions .home-content__main {
 .contact-content input[type="password"]:focus,
 .contact-content textarea:focus,
 .contact-content select:focus {
-    color: #FFFFFF;
-    border-bottom: 1px solid #39b54a;
+    color: #D4AF37;
+    border-bottom: 1px solid #2B3A67;
 }
 
 .contact-content button,
@@ -3137,7 +3137,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-social li a:hover, 
 .contact-social li a:focus {
-    color: #39b54a;
+    color: #2B3A67;
 }
 
 .contact-social li:last-child {
@@ -3160,7 +3160,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .message-success {
-    color: #39b54a;
+    color: #2B3A67;
 }
 
 .message-warning i, .message-success i {
@@ -3187,7 +3187,7 @@ html.no-csstransitions .home-content__main {
     font-size: 1.3rem;
     font-weight: bold;
     line-height: 1.846;
-    color: #FFFFFF;
+    color: #D4AF37;
     letter-spacing: .2rem;
     text-transform: uppercase;
 }
@@ -3216,7 +3216,7 @@ html.no-csstransitions .home-content__main {
 .s-loader > div {
     width: 9px;
     height: 9px;
-    background-color: #FFFFFF;
+    background-color: #D4AF37;
     border-radius: 100%;
     display: inline-block;
     margin-right: .9rem;
@@ -3340,7 +3340,7 @@ footer {
 }
 
 footer h4 {
-    color: #FFFFFF;
+    color: #D4AF37;
     font-size: 1.6rem;
     line-height: 1.313;
     margin-top: 0;
@@ -3348,11 +3348,11 @@ footer h4 {
 }
 
 footer a {
-    color: #FFFFFF;
+    color: #D4AF37;
 }
 
 footer a:hover, footer a:focus, footer a:active {
-    color: #39b54a;
+    color: #2B3A67;
 }
 
 footer .row {
@@ -3414,7 +3414,7 @@ footer .row {
 }
 
 .footer-subscribe #mc-form input[type="email"]:focus {
-    color: #FFFFFF;
+    color: #D4AF37;
 }
 
 .footer-subscribe #mc-form input[type="email"]::-webkit-input-placeholder {
@@ -3443,14 +3443,14 @@ footer .row {
     position: absolute;
     top: 0;
     right: 0;
-    color: #FFFFFF;
-    background: #39b54a;
-    border-color: #39b54a;
+    color: #D4AF37;
+    background: #2B3A67;
+    border-color: #2B3A67;
     padding: 0 20px;
 }
 
 .footer-subscribe #mc-form label {
-    color: #FFFFFF;
+    color: #D4AF37;
     font-family: "montserrat-regular", sans-serif;
     font-size: 1.3rem;
     padding: 0 2rem;
@@ -3519,7 +3519,7 @@ footer .row {
 }
 
 .go-top a:hover, .go-top a:focus {
-    color: #FFFFFF;
+    color: #D4AF37;
 }
 
 
